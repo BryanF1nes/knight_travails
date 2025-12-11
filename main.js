@@ -1,7 +1,7 @@
 /**
     * @param { number[] } start
     * @param { number[] } end
-    * @returns { number[][] }
+    * @returns { string }
 */
 
 function knightMoves(start, end) {
